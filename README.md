@@ -4,7 +4,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](f)  
 [![Tech Stack](https://img.shields.io/badge/Tech-HTML%2C%20CSS%2C%20JS%2C%20PHP%2C%20MySQL-blue)](f)  
 [![Responsive](https://img.shields.io/badge/Responsive-Yes-success)](f)  
-[![Sentiment Analysis](https://img.shields.io/badge/Sentiment-VADER%20in%20PHP-yellow)](f)
+[![Sentiment Analysis](https://img.shields.io/badge/Sentiment-PHP%20Sentiment%20Analyzer-yellow)](https://github.com/davmixcool/php-sentiment-analyzer)
 
 > A complete E-Commerce website enhanced with **Sentiment Analysis** of customer reviews using **VADER in PHP**.
 
