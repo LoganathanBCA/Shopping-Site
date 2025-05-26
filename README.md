@@ -1,4 +1,4 @@
-````markdown
+
 # 🛍️ Shopping Site with Sentiment Analysis
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](f)  
@@ -99,8 +99,6 @@ Pull requests are welcome! For major changes, open an issue first to discuss wha
 
 ---
 
-## About this project
+## 📢 About This Project
 
-<pre> ``` Created by Loganathan M, M.Sc. Computer Science, Government Arts College (Autonomous), Salem-7, as part of Master's degree completion — feel free to connect via Portfolio Website: [https://](https://loganathanbca.github.io/Portfolio/) ``` </pre>
-```
-
+**Created by Loganathan M, M.Sc. Computer Science, Government Arts College (Autonomous), Salem-7, as part of Master's degree completion —  feel free to connect via [Portfolio Website](https://loganathanbca.github.io/Portfolio/).**
