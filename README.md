@@ -40,7 +40,7 @@
 1. **Clone the Repository:**
    ```bash
 [   git clone https://github.com/your-username/shopping-site-with-sentiment-analysis.git
-](https://github.com/LoganathanBCA/Shopping-Site.git)````
+](https://github.com/LoganathanBCA/Shopping-Site.git)```
 
 2. **Import the Database:**
 
